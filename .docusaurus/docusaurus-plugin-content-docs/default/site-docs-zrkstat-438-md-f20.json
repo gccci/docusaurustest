@@ -1,0 +1,23 @@
+{
+  "id": "zrkstat438",
+  "title": "Constitutional Statute of the Republic of Kazakhstan on the Astana International Financial Centre",
+  "description": "Constitutional Statute № 438-V ZRK of 7",
+  "source": "@site/docs/zrkstat438.md",
+  "sourceDirName": ".",
+  "slug": "/zrkstat438",
+  "permalink": "/docs/zrkstat438",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/zrkstat438.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "AIFC Companies Regulations",
+    "permalink": "/docs/aifccompanyreg"
+  }
+}

@@ -32,3 +32,37 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Custom list numbering styles */
+article ol ol {
+    list-style-type: none;
+    counter-reset: item;
+}
+
+article ol ol > li {
+    display: table;
+    counter-increment: item;
+}
+
+article ol ol > li:before {
+    content: counter(item) ") ";
+    display: table-cell;
+    padding-right: 0.6em;
+}
+
+/* Custom spacing for document content */
+.theme-doc-markdown {
+    --ifm-paragraph-margin-bottom: 0.5rem;
+}
+
+.theme-doc-markdown p {
+    margin-bottom: 0.4rem;
+}
+
+.theme-doc-markdown li {
+    margin-bottom: 0.4rem;
+}
+
+.theme-doc-markdown li p {
+    margin-bottom: 0.4rem;
+}

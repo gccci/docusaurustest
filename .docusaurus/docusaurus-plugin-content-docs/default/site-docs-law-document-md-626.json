@@ -1,0 +1,19 @@
+{
+  "id": "law-document",
+  "title": "Constitutional Statute of the Republic of Kazakhstan on the Astana International Financial Centre",
+  "description": "Constitutional Statute № 438-V ZRK of 7",
+  "source": "@site/docs/law-document.md",
+  "sourceDirName": ".",
+  "slug": "/law-document",
+  "permalink": "/docs/law-document",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/law-document.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar"
+}

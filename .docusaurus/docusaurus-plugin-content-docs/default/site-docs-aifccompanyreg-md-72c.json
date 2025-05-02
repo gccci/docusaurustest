@@ -1,0 +1,23 @@
+{
+  "id": "aifccompanyreg",
+  "title": "AIFC Companies Regulations",
+  "description": "AIFC REGULATIONS No. 2 of 2017",
+  "source": "@site/docs/aifccompanyreg.md",
+  "sourceDirName": ".",
+  "slug": "/aifccompanyreg",
+  "permalink": "/docs/aifccompanyreg",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/aifccompanyreg.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Constitutional Statute of the Republic of Kazakhstan on the Astana International Financial Centre",
+    "permalink": "/docs/zrkstat438"
+  }
+}

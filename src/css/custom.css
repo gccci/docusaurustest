@@ -66,3 +66,64 @@ article ol ol > li:before {
 .theme-doc-markdown li p {
     margin-bottom: 0.4rem;
 }
+
+/* === Custom Nested List Numbering === */
+
+/* Level 1: (1), (2), (3) */
+.custom-list {
+  counter-reset: level1;
+}
+
+.custom-list ol {
+  list-style: none !important;
+  padding-left: 0.5em !important;
+  margin-left: 0 !important;
+}
+
+.custom-list ol > li {
+  counter-increment: level1;
+  position: relative;
+  padding-left: 2em !important;
+}
+
+.custom-list ol > li::before {
+  content: "(" counter(level1) ") ";
+  position: absolute;
+  left: 0;
+}
+
+/* Level 2: (a), (b), (c) */
+.custom-list ol > li > ol {
+  list-style: none !important;
+  counter-reset: level2;
+  padding-left: 2em !important;
+}
+
+.custom-list ol > li > ol > li {
+  counter-increment: level2;
+  position: relative;
+  padding-left: 0.5em !important;
+}
+
+.custom-list ol > li > ol > li::before {
+  content: "(" counter(level2, lower-alpha) ") ";
+  position: absolute;
+  left: -2em;
+}
+
+/* Level 3: (i), (ii), (iii) */
+.custom-list ol > li > ol > li > ol {
+  list-style: none !important;
+  counter-reset: level3;
+}
+
+.custom-list ol > li > ol > li > ol > li {
+  counter-increment: level3;
+  position: relative;
+}
+
+.custom-list ol > li > ol > li > ol > li::before {
+  content: "(" counter(level3, lower-roman) ") ";
+  position: absolute;
+  left: -2em;
+}

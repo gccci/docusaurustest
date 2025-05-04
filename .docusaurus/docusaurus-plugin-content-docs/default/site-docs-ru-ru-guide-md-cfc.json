@@ -1,0 +1,20 @@
+{
+  "id": "ru/ru_guide",
+  "title": "ru_guide",
+  "description": "",
+  "source": "@site/docs/ru/ru_guide.md",
+  "sourceDirName": "ru",
+  "slug": "/ru/ru_guide",
+  "permalink": "/docs/ru/ru_guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ru/ru_guide.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AIFC Companies Regulations",
+    "permalink": "/docs/aifccompanyreg"
+  }
+}

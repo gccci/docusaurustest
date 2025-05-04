@@ -60,7 +60,7 @@ article ol ol > li:before {
 }
 
 .theme-doc-markdown li {
-    margin-bottom: 0.4rem;
+    margin-bottom: 0.4rem; 
 }
 
 .theme-doc-markdown li p {
@@ -83,7 +83,7 @@ article ol ol > li:before {
 .custom-list ol > li {
   counter-increment: level1;
   position: relative;
-  padding-left: 2em !important;
+  padding-left: 2.5em !important;
 }
 
 .custom-list ol > li::before {
@@ -127,3 +127,76 @@ article ol ol > li:before {
   position: absolute;
   left: -2em;
 }
+
+/* ===== FAKE top-level numbered list: (1-1), (1-2)... ===== */
+/* Уровень 1 — твой оригинальный стиль */
+ul.custom-toplist {
+  list-style: none;
+  padding-left: 0.5em !important;
+  margin: 0.4rem 0;
+}
+
+ul.custom-toplist li {
+  margin-bottom: 0.4rem;
+  display: flex;
+  align-items: flex-start;
+}
+
+ul.custom-toplist .custom-num {
+  flex-shrink: 0;
+  width: 2.5rem;
+}
+
+ul.custom-toplist .custom-text {
+  flex: 1;
+}
+
+/* Уровень 2 */
+ul.custom-sublist {
+  list-style: none;
+  padding-left: 0rem;
+  margin-top: 0.4rem;
+}
+
+ul.custom-sublist li {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 0.4rem;
+}
+
+.custom-sub-num {
+  flex-shrink: 0;
+  width: 2rem;
+}
+
+ul.custom-sublist .custom-text {
+  flex: 1;
+}
+
+/* Уровень 3 */
+ul.custom-subsublist {
+  list-style: none;
+  padding-left: 0rem;
+  margin-top: 0.5rem;
+}
+
+ul.custom-subsublist li {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 0.4rem;
+}
+
+.custom-subsub-num {
+  flex-shrink: 0;
+  width: 2rem;
+}
+
+ul.custom-subsublist .custom-text {
+  flex: 1;
+}
+
+/* Отступ для ненумерованных параграфов */
+.custom-nolist {
+  padding-left: 2.5rem;
+}
+

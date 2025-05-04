@@ -197,6 +197,6 @@ ul.custom-subsublist .custom-text {
 
 /* Отступ для ненумерованных параграфов */
 .custom-nolist {
-  padding-left: 2.5rem;
+  margin-left: 0.5em;
 }
 

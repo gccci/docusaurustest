@@ -92,20 +92,28 @@ which commence on 1 January 2020
 ### CHAPTER 1–PRELIMINARY
 
 ### 1. Name
+<div class="custom-nolist">
  These Regulations are the AIFC Companies Regulations 2017.
+</div>
 
 ### 2. Date of enactment
+<div class="custom-nolist">
  These Regulations are enacted on the day they are adopted by the Governor.
+</div>
 
 ### 3. Commencement
+<div class="custom-nolist">
  These Regulations commence on 1 January 2018.
+</div>
 
 ### 4. Legislative authority
+<div class="custom-nolist">
  These Regulations are adopted by the Governor under 
  paragraph 1 of article 3 and article 4 of the 
  Constitutional Statute and subparagraph 3-1) of 
  paragraph 9 of the Management Council Resolution 
  on AIFC Bodies.
+</div>
 
 ### 5. Application of these Regulations
 <div class="custom-list">
@@ -290,8 +298,8 @@ provisions used in these Regulations.
 </div>
 
 ### 12. Legal personality
-<div class="custom-list">
 
+<div class="custom-nolist">
 A Company incorporated under these Regulations has a
 separate legal personality from that of its Shareholders.
 The Liabilities of a Company, whether arising in contract,
@@ -299,7 +307,6 @@ tort or otherwise, are the Company's Liabilities and not
 the personal Liabilities of any Shareholder or Officer of
 the Company, except where otherwise provided under these
 Regulations.
-
 </div>
 
 ## PART 4: COMPANY FORMATION AND INCORPORATION
@@ -918,11 +925,13 @@ Regulations.
 
 ### 30. Form of contracts
 
+<div class="custom-nolist">
 A Person acting under the express or implied authority of a 
 Company may make, vary, revoke or discharge a contract, or sign 
 an instrument, on behalf of the Company in the same way as if the 
 contract were made, varied, revoked or discharged, or the 
 instrument signed, by a natural person.
+</div>
 
 
 ### 31. Pre-incorporation contracts

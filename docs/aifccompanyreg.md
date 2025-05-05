@@ -78,6 +78,7 @@ which commence on 1 January 2020
   - [50. Prohibition of public offers by Private Companies](#50-prohibition-of-public-offers-by-private-companies)
   - [51. Enforcement of section 50(1) prohibition](#51-enforcement-of-section-501-prohibition)
 - [PART 8: REGISTERS OF SHAREHOLDERS AND DEBT SECURITY HOLDERS AND SHARE CERTIFICATES](#part-8-registers-of-shareholders-and-debt-security-holders-and-share-certificates)
+  - [CHAPTER 5–REGISTERS OF SHAREHOLDERS AND DEBT SECURITY HOLDERS AND SHARE CERTIFICATES](#chapter-5registers-of-shareholders-and-debt-security-holders-and-share-certificates)  
   - [52. Register of Shareholders](#52-register-of-shareholders)
   - [53. Register of Debt Security Holders](#53-register-of-debt-security-holders)
   - [54. Transfer and registration of Shares and Debt Securities](#54-transfer-and-registration-of-shares-and-debt-securities)
@@ -1526,6 +1527,8 @@ issued by a Company that purport to be bearer Shares are void.
       3. the Directors' justification of that amount.
 </div>
 
+### CHAPTER 4–PROHIBITION OF PUBLIC OFFERS BY PRIVATE COMPANIES
+
 ### 50. Prohibition of public offers by Private Companies
 <div class="custom-list">
 1. A Private Company must not:
@@ -1552,9 +1555,9 @@ issued by a Company that purport to be bearer Shares are void.
    4. offers, allots, or allots by agreement Debt Securities, 
       subject to Registrar's approval.
 4. For this section:
-   1. an offer to the public includes an offer to any section of the 
+   1. an ***offer to the public*** includes an offer to any section of the 
       public, however selected; and
-   2. an offer is not regarded as an offer to the public if:
+   2. an offer is not regarded as an ***offer to the public*** if:
       1. it can be properly regarded, in all the circumstances, as 
          not being calculated to result, directly or indirectly, in 
          the Securities becoming available to Persons other than 
@@ -1614,9 +1617,11 @@ issued by a Company that purport to be bearer Shares are void.
       4. an order that the Company be subject to a compulsory 
          winding up;
       5. any other order the Court considers appropriate.
-5. In this section:
-   affected party means a Shareholder or Creditor of the Company.
+5. In this section:  
+   ***affected party*** means a Shareholder or Creditor of the Company.
 </div>
+
+### CHAPTER 5–REGISTERS OF SHAREHOLDERS AND DEBT SECURITY HOLDERS AND SHARE CERTIFICATES
 
 ### 52. Register of Shareholders
 <div class="custom-list">
@@ -1649,9 +1654,9 @@ issued by a Company that purport to be bearer Shares are void.
 4. A Private Company may make an election to keep information in 
    the Register kept by the Registrar.
 5. An election may be made under this section by:
-   a. the applicant wishing to incorporate a Private Company under 
+   1. the applicant wishing to incorporate a Private Company under 
       these Regulations; or
-   b. the Private Company itself once it is incorporated.
+   2. the Private Company itself once it is incorporated.
 6. In paragraph (b) of subsection (5), the election is of no 
    effect, without prior agreement of all the Shareholders of the 
    Private Company at the particular time to the making of the 
@@ -1660,24 +1665,24 @@ issued by a Company that purport to be bearer Shares are void.
    election to the Registrar.
 8. If the notice is given by Person(s) wishing to incorporate a 
    Private Company:
-   a. it must be given together with the application for the 
+   1. it must be given together with the application for the 
       incorporation under section 13; and
-   b. it must be accompanied by a statement containing all the 
+   2. it must be accompanied by a statement containing all the 
       information under subsection (2).
 9. If the notice is given by the Private Company, it must be 
    accompanied by:
-   a. a statement by the Private Company that all the Shareholders 
+   1. a statement by the Private Company that all the Shareholders 
       of the Private Company have assented to the making of the 
       election; and
-   b. a statement containing all the information that is required 
+   2. a statement containing all the information that is required 
       under subsection (2) to be contained in the Private Company's 
       Register of Shareholders as at the date of the notice in 
       respect of matters that are current as at that date.
 10. An election made under subsection (4) takes effect when the 
     notice of election is registered by the Registrar.
 11. The election remains in force until either:
-    a. the Private Company ceases to be a Private Company; or
-    b. a notice of withdrawal sent by the Private Company under 
+    1. the Private Company ceases to be a Private Company; or
+    2. a notice of withdrawal sent by the Private Company under 
        subsection (15) is registered by the Registrar, whichever 
        occurs first.
 12. While an election under subsection (4) is in force, a Private 
@@ -1700,18 +1705,18 @@ issued by a Company that purport to be bearer Shares are void.
 15. A Private Company may by giving notice of withdrawal to the 
     Registrar withdraw an election made by or in respect of it under 
     subsection (4), where:
-    a. the withdrawal takes effect when the notice is registered by 
+    1. the withdrawal takes effect when the notice is registered by 
        the Registrar;
-    b. the effect of withdrawal is that the Private Company's 
+    2. the effect of withdrawal is that the Private Company's 
        obligation under subsection (1) to maintain a Register of 
        Shareholders applies from then on with respect to the period 
        going forward;
-    c. the Private Company must place a note in its Register of 
+    3. the Private Company must place a note in its Register of 
        Shareholders—
-       i. stating that the election under subsection (4) has been 
+       1. stating that the election under subsection (4) has been 
           withdrawn;
-       ii. recording when that withdrawal took effect; and
-       iii. indicating that information about its Shareholders 
+       2. recording when that withdrawal took effect; and
+       3. indicating that information about its Shareholders 
             relating to the period when the election was in force 
             that is no longer current, is available for public 
             inspection in the Register kept by the Registrar.
@@ -1849,11 +1854,11 @@ issued by a Company that purport to be bearer Shares are void.
    Company, may apply to the Registrar for rectification of the 
    register.
 2. If:
-   a. without sufficient reason, the name of a Person, or the number 
+   1. without sufficient reason, the name of a Person, or the number 
       of Debt Securities held or the type of Debt Securities held by 
       a Person, is, not entered correctly in, or is omitted from, a 
       Company's Register of Debt Security Holders; or
-   b. there is a Failure or unnecessary delay in entering in the 
+   2. there is a Failure or unnecessary delay in entering in the 
       Register of Debt Security Holders of a Company the fact that a 
       Person has ceased to be a Debt Security holder;
    the Person (an aggrieved Person), or any Debt Security holder of 
@@ -1861,8 +1866,8 @@ issued by a Company that purport to be bearer Shares are void.
    Register of Debt Security Holders.
 3. If the Registrar receives an application under subsection (1) or 
    (2) in relation to a register of a Company, the Registrar may:
-   a. order the Company to rectify the register; or
-   b. refuse, for reasonable cause (including, for example, the 
+   1. order the Company to rectify the register; or
+   2. refuse, for reasonable cause (including, for example, the 
       existence of a dispute relating to the application or the 
       relevant holding), to order the Company to rectify the 
       register.
@@ -1870,14 +1875,14 @@ issued by a Company that purport to be bearer Shares are void.
    under subsection (3)(a).
 5. Without limiting the Registrar's powers under subsection (3), 
    the Court may make 1 or more of the following orders:
-   a. on the application of the Registrar, an order enforcing an 
+   1. on the application of the Registrar, an order enforcing an 
       order made by the Registrar under subsection (3)(a);
-   b. on the application of an aggrieved Person in relation to a 
+   2. on the application of an aggrieved Person in relation to a 
       Company, or any Shareholder or Debt Security holder of a 
       Company, an order directing the Company to rectify, or not to 
       rectify, the Company's Register of Shareholders or Register of 
       Debt Security Holders or to do, or not do, anything else;
-   c. on the application of an aggrieved Person in relation to a 
+   3. on the application of an aggrieved Person in relation to a 
       Company, an order requiring the Company to pay damages.
 6. Contravention of subsection (4) is punishable by a fine.
 

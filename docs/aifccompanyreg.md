@@ -1436,9 +1436,9 @@ instrument signed, by a natural person.
 </div>
 
 ### 47. Bearer Shares
-<div class="custom-list">
-1. It is unlawful for a Company to issue bearer Shares. Any Shares 
-   issued by a Company that purport to be bearer Shares are void.
+<div class="custom-nolist">
+It is unlawful for a Company to issue bearer Shares. Any Shares 
+issued by a Company that purport to be bearer Shares are void.
 </div>
 
 ### 48. Shareholders' pre-emption rights
@@ -1467,13 +1467,13 @@ instrument signed, by a natural person.
    as forming part of the Company's share capital.
 4. A Company's Articles of Association may prohibit the Company 
    from Allotting Shares of a particular class in respect of an 
-   offer referred to in subsection (1)(1), unless the Company has 
+   offer referred to in subsection (1)(a), unless the Company has 
    complied with the equivalent pre-emption rights included in its 
    Articles of Association. Subsection (1) does not apply in such 
    circumstances and the Company may Allot the Shares in accordance 
    with those equivalent pre-emption rights, if an offer is made in 
    accordance with subsection (5).
-5. An offer made under subsection (1)(1) or (4):
+5. An offer made under subsection (1)(a) or (4):
    1. may be made in hard copy or electronic form; and
    2. may, if a holder of Equity Securities has not given an address 
       to the Company, be made by arranging for the offer, or a 
@@ -1497,6 +1497,8 @@ instrument signed, by a natural person.
 7. Contravention of this section is punishable by a fine.
 
 </div>
+
+
 
 ### 49. Exceptions to pre-emption right
 <div class="custom-list">
